@@ -8,8 +8,14 @@ Data Science student, I am a self-taught with a passion for learning.
 
 * I’m currently learning Data Science
 * I love Data Visualization
-* Feel free to contact me on linkedin 
+
 
 > * My most ambitious dream is to become an excellent data scientist and study medicine from my field. *
 
 > _In addition to working with data I love art and reading_
+
+
+#### Skills
+
+#### Contact me
+![linkedin Logo](C:\Users\steve\Downloads\linkedin.png)
