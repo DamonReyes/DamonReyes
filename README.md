@@ -18,4 +18,4 @@ Data Science student, I am a self-taught with a passion for learning.
 #### Skills
 
 #### Contact me
-![linkedin Logo](https://www.flaticon.com/free-icon/linkedin_174857?term=linkedin&page=1&position=1&page=1&position=1&related_id=174857&origin=search)
+![linkedin Logo](https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1620863274~hmac=7f4f8b533ed26debbe3dc977279c5ab0)
