@@ -2,7 +2,9 @@
 
 <!--
 **DamonReyes/DamonReyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile..-->
-I am a Data Analyst and a Data Science student, I am a self-taught with a passion for learning.
+## Data Analyst
+
+I am a Data Science student, I am a self-taught with a passion for learning.
 
 * I’m currently learning Data Science
 * Feel free to contact me on linkedin
