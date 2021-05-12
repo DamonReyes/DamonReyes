@@ -18,7 +18,7 @@ Data Science student, I am a self-taught with a passion for learning.
 #### Skills
 
 #### Contact me
-![gmail Logo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![gmail Logo](https://img.shields.io/badge/Gmail-D1483?style=for-the-badge&logo=gmail&logoColor=white)
 ![gmail Logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![gmail Logo]()
 ![gmail Logo]()
