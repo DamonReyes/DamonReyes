@@ -6,5 +6,5 @@
 * I’m currently learning Data Science
 * Feel free to contact me on linkedin
 
-> *Mi meta y/o sueno mas ambicioso es convertirme en un excelente científico de datos y estudiar la medicina desde mi campo.*
-> _Aparte de trabajar con datos me encanta el arte y la lectura_
+> * My most ambitious dream is to become an excellent data scientist and study medicine from my field.*
+> _In addition to working with data I love art and reading_
