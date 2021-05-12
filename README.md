@@ -1,5 +1,5 @@
-### Hello, My name is Damon Reyes
-## Im a Data Analyst
+## Hello, My name is Damon Reyes
+####  Im a Data Analyst :man_technologist:
 
 <!--
 **DamonReyes/DamonReyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile..-->
