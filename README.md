@@ -19,7 +19,7 @@ Data Science student, I am a self-taught with a passion for learning.
 ![python Logo](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![sql Logo](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![excel Logo](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![tableau Logo](https://img.shields.io/badge/Tableau-217346?style=for-the-badge&logo=Tableau&logoColor=white)
+![tableau Logo](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 #### Contact me
 ![linkedin Logo](https://img.shields.io/badge/LinkedIn-Damon_Reyes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
