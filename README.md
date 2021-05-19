@@ -23,4 +23,6 @@ Data Science student, I am a self-taught with a passion for learning.
 
 #### Contact me
 ![linkedin Logo](https://img.shields.io/badge/LinkedIn-Damon_Reyes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+Portfolio [github Logo](https://github.com/DamonReyes/Portfolio_Projects)
+Tableau Portfolio [tableau](https://public.tableau.com/profile/damon.reyes#!/?newProfile=&activeTab=0)
 
