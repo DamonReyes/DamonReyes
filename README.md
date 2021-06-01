@@ -4,7 +4,7 @@
 <!--
 **DamonReyes/DamonReyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile..-->
 
-Data Science student, I am a self-taught with a passion for learning.
+Data Science student, I am a *self-starter* with a passion for learning.
 
 * I’m currently learning Data Science
 * I love Data Visualization
@@ -27,4 +27,3 @@ Data Science student, I am a self-taught with a passion for learning.
 > Portfolio [github](https://github.com/DamonReyes/Portfolio_Projects)
 
 > Tableau Portfolio [tableau](https://public.tableau.com/profile/damon.reyes#!/?newProfile=&activeTab=0)
-
