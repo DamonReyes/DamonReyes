@@ -26,4 +26,4 @@ Data Science student, I am a *self-starter* with a passion for learning.
 
 > [![github](https://github.com/DamonReyes/Portfolio_Projects)](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-> [![tableau](https://public.tableau.com/profile/damon.reyes#!/?newProfile=&activeTab=0)](https://public.tableau.com/profile/damon.reyes#!/)
+[![tableau](https://public.tableau.com/profile/damon.reyes#!/?newProfile=&activeTab=0)](https://public.tableau.com/profile/damon.reyes#!/)
