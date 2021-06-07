@@ -22,8 +22,7 @@ Data Science student, I am a *self-starter* with a passion for learning.
 ![tableau Logo](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 #### Contact me
-![linkedin Logo](https://img.shields.io/badge/LinkedIn-Damon_Reyes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
+[![linkedin Logo](https://img.shields.io/badge/LinkedIn-Damon_Reyes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damon-reyes/)
 
 > Portfolio [github](https://github.com/DamonReyes/Portfolio_Projects)
 
