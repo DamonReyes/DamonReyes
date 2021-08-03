@@ -10,7 +10,7 @@ Data Science student, I am a *self-starter* with a passion for learning.
 * I love Data Visualization
 
 
-> * My most ambitious dream is to become an excellent data scientist and Work with Health from my field. *
+> * My most ambitious dream is to become an excellent data scientist and work with people who want to make a better world. *
 
 > _In addition to working with data I love art and reading_
 
